@@ -1,6 +1,6 @@
 # go-fsspec
 
-![go fsspec](./go-fsspec.png)
+![go fsspec](./assets/go-fsspec.png)
 
 ---
 
