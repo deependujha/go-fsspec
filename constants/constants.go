@@ -1,9 +1,9 @@
 package constants
 
 const (
-	s3   = "s3"
-	gcs  = "gcs"
-	abfs = "abfs"
+	S3   string = "s3"
+	GCS  string = "gcs"
+	ABFS string = "abfs"
 )
 
-var SUPPORTED_CLOUD_PROVIDERS = [...]string{s3, gcs, abfs}
+var SUPPORTED_CLOUD_PROVIDERS = [...]string{S3, GCS, ABFS}
