@@ -26,3 +26,8 @@
   - `deleteDirectory(path string) error`
 
 - Each storage system will have its own implementation of `abstractCloudStorage` interface.
+
+---
+
+> [!CAUTION]
+> Features like, `streaming` or `cross-cloud operations` will not be prioritized (for now).
