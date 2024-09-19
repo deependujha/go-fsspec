@@ -14,8 +14,8 @@
 
 - We will have an **`abstractCloudStorage`** interface that will be implemented by each storage system.
 - `abstractCloudStorage` will have these methods:
-  - `init(cloudProvider string, cloudConfig map[string]string) error`
-  - `fileExists(path string) (bool, error)`
+  - `init(provider string, cloudConfig map[string]string) error`
+  - `exists(path string) (bool, error)`
   - `makeDirectory(path string) error`
   - `listDirectory(path string) ([]string, error)` / `ls(path string) ([]string, error)`
   - `downloadFile(path string, destination string) error`
