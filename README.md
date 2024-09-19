@@ -1,5 +1,7 @@
 # go-fsspec
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/deependujha/go-fsspec.svg)](https://pkg.go.dev/github.com/deependujha/go-fsspec)
+
 ![go fsspec](./assets/go-fsspec.png)
 
 ---
@@ -31,3 +33,11 @@
 
 > [!CAUTION]
 > Features like, `streaming` or `cross-cloud operations` will not be prioritized (for now).
+
+---
+
+## Installation
+
+```bash
+go get -u github.com/deependujha/go-fsspec
+```
