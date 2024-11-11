@@ -4,6 +4,9 @@
 
 ![go fsspec](./assets/go-fsspec.png)
 
+⚠️ temporarily stopped!
+
+
 ---
 
 ## Idea
@@ -41,3 +44,4 @@
 ```bash
 go get -u github.com/deependujha/go-fsspec
 ```
+
