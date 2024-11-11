@@ -4,7 +4,7 @@
 
 ![go fsspec](./assets/go-fsspec.png)
 
-⚠️ temporarily stopped!
+⚠️ temporarily stopped! Project will restart after I get a job🤗
 
 
 ---
